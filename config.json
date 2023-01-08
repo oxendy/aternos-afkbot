@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"servermc.eu.org",
+	"port": "6969",
+	"name": "AFKBOT_NghiemCamKill"
 }
